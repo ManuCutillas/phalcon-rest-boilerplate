@@ -1,0 +1,11 @@
+{
+    "name": "deulos/phalcon-rest-boilerplate",
+    "type": "project",
+    "authors": [
+        {
+            "name": "deulos"
+        }
+    ],
+    "require": {
+    }
+}
